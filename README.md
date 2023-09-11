@@ -12,16 +12,40 @@ Their Marketing team is responsible for increasing brand awareness, market share
 
 Power BI has been employed for in-depth analysis of a vast survey dataset encompassing 10,000 participants across 10 key Indian cities on behalf of CodeX. Extracted pivotal insights instrumental in shaping strategies to elevate brand recognition, expand market footprint, and enhance product evolution. These insights substantially contributed to CodeX's successful foray and progression within the dynamic Indian market.
 
+**Link of My Presentation Video** : https://www.linkedin.com/posts/rashi-tiwari-01568a228_codebasics-resumeprojectchallenge-dataanalysis-activity-7086264214087999488-7NeO?utm_source=share&utm_medium=member_desktop
+
 **Recommendations for CodeX:**
 
-**1 Who should be our target audience, and why?**
+**1. What immediate improvements can we bring to the product?**
+
+The strategy focuses on prioritizing organic ingredients such as caffeine and vitamins, highlighting health-conscious choices. It emphasizes transparent ingredient labeling to clearly convey the use of organic components. Additionally, it suggests the introduction of a wide range of flavors, including options like iced black coffee, berries, and lemon, to cater to diverse consumer tastes. Finally, the plan advocates for the creation of visually striking packaging that not only grabs attention but also mirrors the brand's distinctive identity.
+
+**2. What should be the ideal price of our product?**
+
+43% of respondents prefer Codex prices between ₹50-₹99. We'll introduce a premium tier at ₹100-₹150. We're launching eco-friendly packaging, starting in the ₹50-₹99 range to test and promote sustainability.
+
+**3. Who should be our target audience, and why?**
 
 Our prime target audience encompasses males aged 19 to 30. This demographic holds significant purchasing power, showcasing strong consumer trends and technology adoption. Their engagement in lifestyle enhancement and tech-driven interests aligns seamlessly with our product's offerings. By tailoring our strategies to resonate with this age group's preferences and aspirations, we can establish a deep and lasting connection, fostering brand loyalty and sustainable growth.
 
-**2 Who can be a brand ambassador, and why?**
+**4. Who can be a brand ambassador, and why?**
 
-An ideal brand ambassador would be a charismatic influencer who resonates with our target demographic of males aged 19 to 30. This individual should embody the lifestyle and values that our product represents. Their established online presence and engagement will help us tap into a wider audience, while their genuine affinity for our offerings will lend authenticity to our brand endorsement efforts. This strategic partnership will drive brand awareness and trust among our key consumer base.
+To effectively connect with our highly active and social media-savvy target audience, aged 19 to 30, we recommend partnering with influential figures such as social media influencers, fitness enthusiasts, and accomplished athletes who wield substantial online influence. These individuals can become potent brand advocates, utilizing their reach to endorse CodeX and strike a chord with our desired demographic.
 
-**3 What kind of marketing campaigns, offers, and discounts we can run?**
+Examples of some potential collaborators:
 
-We can launch captivating marketing campaigns highlighting the innovative features of our product, targeting our 19-30 male demographic through social media platforms and lifestyle blogs. Introducing limited-time offers and bundle discounts can incentivize purchases and create a sense of urgency. Additionally, loyalty programs that reward repeat customers will foster engagement and brand loyalty. Collaborations with relevant influencers for unboxing and review content can further amplify our reach. By strategically aligning these initiatives, we can create a compelling marketing ecosystem that drives sales and brand engagement.
+Social Media Influencers: Bhuvan Bam, Nikhil Sharma, Kusha Kapila, Prajakta Koli
+Fitness Enthusiasts: Sahil Khan, Gaurav Taneja, Yasmin Karachiwala
+Accomplished Athletes: Sarah Johnson, Virat Kohli, Saina Nehwal
+
+**5. What kind of marketing campaigns, offers, and discounts we can run?**
+
+Engaging Challenge: Our "Energy Boost Challenge" encourages customers to incorporate Codex into their daily routines, fostering engagement. Participants enjoy a 10% discount, and some even have the chance to be featured.
+
+Health Education: "Healthy Energy, Healthy You" educates consumers about Codex's health benefits through expert endorsements and informative content.
+
+Attractive Intro Offer: We can offer a special introductory discount to incentivize first-time Codex buyers.
+
+Flavorful Variety: Our bundle deals provide a convenient way for customers to explore Codex's diverse flavors and product variants.
+
+Try Before You Buy: Collaborations with retail partners, gyms, offices, and campuses for in-store sampling events offer potential customers a firsthand experience, boosting purchase interest.
