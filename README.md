@@ -2,10 +2,11 @@
 
 Domain: F & B Function: Marketing
 
-CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
 
 ![Alt Text](https://github.com/Rashi-tiwary21/logos/blob/main/Screenshot%202023-07-15%20155406.png)
 
+
+CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
 
 Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents.
 
