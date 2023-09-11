@@ -14,6 +14,8 @@ Power BI has been employed for in-depth analysis of a vast survey dataset encomp
 
 **Link of My Presentation Video** : https://www.linkedin.com/posts/rashi-tiwari-01568a228_codebasics-resumeprojectchallenge-dataanalysis-activity-7086264214087999488-7NeO?utm_source=share&utm_medium=member_desktop
 
+**Link of My Interactive Dashboard **: https://www.novypro.com/project/marketing-analysis-of-codex-power-bi
+
 **Recommendations for CodeX:**
 
 **1. What immediate improvements can we bring to the product?**
